@@ -1,1 +1,1 @@
-# generstor
+# generator
