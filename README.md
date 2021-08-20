@@ -1,1 +1,1 @@
-# generator
+# https://freefireshop.github.io/generator/
